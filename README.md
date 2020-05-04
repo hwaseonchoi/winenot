@@ -10,5 +10,5 @@ C'est un site web pour le concept de mettre en relation les professionnels du vi
 Il a été conçu techniquement en PHP framework maison **W** de l'école de formation ainsi que JS et CSS.
 
 
-[Consulter le site](http://winenot.alwaysdata.net">Consulter le site en ligne)
+[Consulter le site](http://winenot.alwaysdata.net)
 (On remettra à jour le serveur que s'il y a un intéressé !)
